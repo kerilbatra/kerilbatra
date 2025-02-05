@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @kerilbatra
-- 👀 Working As Data Science
-- 🌱 I’m learning more about Python And Upgrading My Skills
-- 📫 You can reach me by mailing me on my account : kerilbatra2@gmail.com
+# 👋 Hi, I’m @kerilbatra
 
+- 👀 Working as a Data Scientist.
+  
+- 🚀 Passionate about Automation, Machine Learning, AI, and Power BI
+ 
+- 🌱 Constantly learning and enhancing my Python skills.
+  
+- 📫 Feel free to reach out via email: kerilbatra2@gmail.com.
 
