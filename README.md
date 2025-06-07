@@ -2,7 +2,7 @@
 
 - 👀 Working as a Data Scientist.
   
-- 🚀 Passionate about Automation, Machine Learning, AI, and Power BI
+- 🚀 Passionate about Automation, Machine Learning, AI, and Power BI Development
  
 - 🌱 Constantly learning and enhancing my Python skills.
   
