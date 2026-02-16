@@ -1,5 +1,5 @@
 🚀 Keril Batra | Data Scientist 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Scientist;Automation+AI;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Scientist;Automation+&AI;Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50"> </p>
 👋 About Me
 
 I’m Keril Batra, a passionate Data Scientist focused on building scalable automation systems and turning complex data into meaningful insights. I specialize in Python automation, API integrations, financial and e-commerce analytics, and advanced Power BI dashboards that support real business decisions. My experience includes building automated pipelines for platforms like Amazon and Shopify, SAP automation, SharePoint integrations, and large-scale reporting systems.
@@ -38,6 +38,18 @@ LangChain & RAG Chatbots
 High-performance Python Automation
 
 🤝 Let’s Connect
-<p> <a href="mailto:kerilbatra2@gmail.com"> <img src="https://img.shields.io/badge/Email-kerilbatra2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/kerilbatra"> <img src="https://img.shields.io/badge/GitHub-kerilbatra-black?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://linkedin.com/in/your-linkedin-username"> <img src="https://img.shields.io/badge/LinkedIn-Keril%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
+<p>
+<a href="mailto:kerilbatra2@gmail.com">
+<img src="https://img.shields.io/badge/Email-kerilbatra2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/kerilbatra">
+<img src="https://img.shields.io/badge/GitHub-kerilbatra-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/kerilbatra2002">
+<img src="https://img.shields.io/badge/LinkedIn-Keril%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
 
 ⭐ “Automation is not about replacing people — it's about freeing them to do more meaningful work.”
