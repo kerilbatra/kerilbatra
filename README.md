@@ -12,7 +12,7 @@ I love solving real-world problems with Machine Learning, AI, and smart automati
 👨‍💻 Languages & Tools
 <p> <img src="https://skillicons.dev/icons?i=python,pandas,numpy,selenium,git,github,django,mysql,postgres,azure" /> </p>
 📊 Data & BI
-<p> <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau" /> </p>
+<p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> </p>
 🤖 AI & ML
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> </p>
 📈 GitHub Stats
@@ -38,6 +38,6 @@ LangChain & RAG Chatbots
 High-performance Python Automation
 
 🤝 Let’s Connect
-<p> <a href="mailto:kerilbatra2@gmail.com"><img src="https://img.shields.io/badge/Email-kerilbatra2@gmail.com-red?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/kerilbatra"><img src="https://img.shields.io/badge/GitHub-kerilbatra-black?style=for-the-badge&logo=github"></a> </p>
+<p> <a href="mailto:kerilbatra2@gmail.com"> <img src="https://img.shields.io/badge/Email-kerilbatra2@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://github.com/kerilbatra"> <img src="https://img.shields.io/badge/GitHub-kerilbatra-black?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://linkedin.com/in/your-linkedin-username"> <img src="https://img.shields.io/badge/LinkedIn-Keril%20Batra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </p>
 
 ⭐ “Automation is not about replacing people — it's about freeing them to do more meaningful work.”
