@@ -1,5 +1,5 @@
-🚀 Keril Batra | Data Scientist & Automation Engineer
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Scientist;Automation+Engineer;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50"> </p>
+🚀 Keril Batra | Data Scientist 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Scientist;Automation+AI;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50"> </p>
 👋 About Me
 
 I’m Keril Batra, a passionate Data Scientist focused on building scalable automation systems and turning complex data into meaningful insights. I specialize in Python automation, API integrations, financial and e-commerce analytics, and advanced Power BI dashboards that support real business decisions. My experience includes building automated pipelines for platforms like Amazon and Shopify, SAP automation, SharePoint integrations, and large-scale reporting systems.
@@ -17,8 +17,7 @@ I love solving real-world problems with Machine Learning, AI, and smart automati
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> </p>
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kerilbatra&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerilbatra&theme=tokyonight" /> </p>
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kerilbatra&theme=algolia" /> </p>
+
 📂 What I Work On
 
 ✨ Automation Scripts for Finance & E-commerce
