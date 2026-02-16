@@ -23,11 +23,11 @@ I love solving real-world problems with Machine Learning, AI, and smart automati
 <p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> </p>
 🤖 AI & ML
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> </p>
-📈 GitHub Stats
+<!-- 📈 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kerilbatra&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 <img src="https://streak-stats.demolab.com?user=kerilbatra&theme=tokyonight" />
-</p>
+</p> -->
 
 
 📂 What I Work On
