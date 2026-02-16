@@ -1,10 +1,44 @@
-# 👋 Hi, I’m @kerilbatra
+🚀 Keril Batra | Data Scientist & Automation Engineer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Scientist;Automation+Engineer;Python+Developer;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50"> </p>
+👋 About Me
 
-- 👀 Working as a Data Scientist.
-  
-- 🚀 Passionate about Automation, Machine Learning, AI, and Power BI Development
- 
-- 🌱 Constantly learning and enhancing my Python skills.
-  
-- 📫 Feel free to reach out via email: kerilbatra2@gmail.com.
+I’m Keril Batra, a passionate Data Scientist focused on building scalable automation systems and turning complex data into meaningful insights. I specialize in Python automation, API integrations, financial and e-commerce analytics, and advanced Power BI dashboards that support real business decisions. My experience includes building automated pipelines for platforms like Amazon and Shopify, SAP automation, SharePoint integrations, and large-scale reporting systems.
 
+I love solving real-world problems with Machine Learning, AI, and smart automation. Every project I build focuses on saving time, improving accuracy, and delivering value through clean code and efficient workflows. I’m constantly learning new tools, exploring modern data engineering techniques, and pushing myself to grow as a developer and data scientist.
+
+📫 Reach me at kerilbatra2@gmail.com
+
+🛠️ Tech Stack
+👨‍💻 Languages & Tools
+<p> <img src="https://skillicons.dev/icons?i=python,pandas,numpy,selenium,git,github,django,mysql,postgres,azure" /> </p>
+📊 Data & BI
+<p> <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau" /> </p>
+🤖 AI & ML
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kerilbatra&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerilbatra&theme=tokyonight" /> </p>
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kerilbatra&theme=algolia" /> </p>
+📂 What I Work On
+
+✨ Automation Scripts for Finance & E-commerce
+✨ API Integrations & Data Pipelines
+✨ Power BI Dashboards & Business Analytics
+✨ Machine Learning Models
+✨ SAP & SharePoint Automation
+✨ Python Tools that Save Time
+
+🌱 Currently Learning
+
+Advanced Machine Learning & AI
+
+Cloud Data Engineering
+
+LangChain & RAG Chatbots
+
+High-performance Python Automation
+
+🤝 Let’s Connect
+<p> <a href="mailto:kerilbatra2@gmail.com"><img src="https://img.shields.io/badge/Email-kerilbatra2@gmail.com-red?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/kerilbatra"><img src="https://img.shields.io/badge/GitHub-kerilbatra-black?style=for-the-badge&logo=github"></a> </p>
+
+⭐ “Automation is not about replacing people — it's about freeing them to do more meaningful work.”
